@@ -1,0 +1,11 @@
+
+opencv-python
+numpy
+google-generativeai
+openai
+anthropic
+Pillow
+streamlit
+python-dotenv
+mediapipe==0.10.14
+cvzone==1.6.1
